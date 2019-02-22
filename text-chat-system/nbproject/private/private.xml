@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/controller/UserController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>127</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/omega1100100/Code/java-projects/text-chat-system-p00007/text-chat-system/src/ui/ListUserUI.java</file>
+            <file>file:/Users/omega1100100/Code/java-projects/text-chat-system-p00007/text-chat-system/src/server/Server.java</file>
+            <file>file:/Users/omega1100100/Code/java-projects/text-chat-system-p00007/text-chat-system/src/ui/ReadOmUI.java</file>
+            <file>file:/Users/omega1100100/Code/java-projects/text-chat-system-p00007/text-chat-system/src/ui/RegisterUI.java</file>
+            <file>file:/Users/omega1100100/Code/java-projects/text-chat-system-p00007/text-chat-system/src/server/ServerThread.java</file>
+        </group>
+    </open-files>
+</project-private>
